@@ -1,4 +1,8 @@
 _repo: Ruecas-de-Marfil_48081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48081-h/images/cover.jpg
 creator:
   author:
     agent_name: Espina, Concha
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Concha_Espina
     - http://es.wikipedia.org/wiki/Concha_Espina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48081#Ruecas-de-Marfil
 gutenberg_issued: '2015-01-26'
 gutenberg_type: Text
 identifiers:
